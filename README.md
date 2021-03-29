@@ -5,7 +5,7 @@
 1) Установить
 ```
  Python 3 (https://python.org/)
- Зависимости для Python из файла **requirements.txt**
+ Зависимости для Python из файла requirements.txt
 ```
 2) Клонируем проект на виртуальную машину
 3) Заходим в папку courier_api
