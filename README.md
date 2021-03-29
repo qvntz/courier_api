@@ -2,14 +2,10 @@
 **alpha version**
 
 ### Как запускать на Ubuntu?
-1) Прописываем команды:
-
+1) Установить
 ```
-sudo apt install python3-pip
-pip3 install pydantic
-pip3 install SQLAlchemy
-pip3 install flask
-sudo apt install git
+ Python 3 (https://python.org/)
+ Зависимости для Python из файла **requirements.txt**
 ```
 2) Клонируем проект на виртуальную машину
 3) Заходим в папку courier_api
@@ -29,6 +25,12 @@ __простите__
 
 ***Минусы этого способа***
 * Еще не знаю
+
+
+***
+### Тесты
+
+***Для запуска тестов используется pytest, все тесты лежат в папке tests***
 
 Для тех, кто дочитал:
 
