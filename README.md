@@ -2,6 +2,8 @@
 **alpha version**
 
 ### Как запускать на Ubuntu?
+***
+### Вариант установки номер 1
 1) Установить
 ```
  Python 3 (https://python.org/)
